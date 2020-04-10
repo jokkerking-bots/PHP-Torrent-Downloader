@@ -1,0 +1,7 @@
+{
+  "name": "@Jokkerking",
+  "description": "Basic Telegram URL Uploader for Heroku",
+  "repository": "https://t.me/ Jokkerking",
+  "logo": "http://icons.iconarchive.com/icons/graphicloads/100-flat/256/upload-icon.png",
+  "keywords": ["telegram", "url", "upload"]
+}
